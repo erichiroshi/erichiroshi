@@ -25,7 +25,7 @@
 
 <div>
   <a href="https://github.com/erichiroshi">
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=erichiroshi&show_icons=true&theme=radical"/>
+<!--   <img height=180 src="https://github-readme-stats.vercel.app/api?username=erichiroshi&show_icons=true&theme=radical"/> -->
   <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erichiroshi&layout=compact&theme=radical&langs_count=8&card_width=320"/>
 </div>
 
