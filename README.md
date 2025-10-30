@@ -1,33 +1,26 @@
-<h1 align="left">Olá! Eu sou o Eric Hiroshi 👋</h1>
+<h1 align="left">About Me</h1>
 
-###
+<p align="left">- Java Developer</p>
 
-<p align="left">- Java Developer<br>- Web3 Enthusiast</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+<h2 align="left">Techs</h2>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
 </div>
 
-###
+<h2 align="left">Stats</h2>
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=erichiroshi&show_icons=true&theme=dracula" height=150 alt="stats graph"  />
@@ -35,11 +28,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=erichiroshi&radius=5&theme=dracula&area=true&order=5" height="229" alt="activity-graph graph"  />
 </div>
 
-###
-
 <h2 align="left">Socail Media</h2>
-
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/eric-hiroshi/" target="_blank">
