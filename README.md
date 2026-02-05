@@ -1,42 +1,29 @@
-<h1 align="left">About Me</h1>
+# Eric Hiroshi - Desenvolvedor Backend Java
 
-<p align="left">- Java Developer</p>
+Olá! Sou Eric Hiroshi, desenvolvedor júnior focado em backend Java e Spring Boot. Com experiência em projetos pessoais, construo soluções escaláveis e seguras, seguindo boas práticas de engenharia. Busco oportunidades para contribuir em times ágeis e evoluir em fintech ou empresas tech no Brasil.
 
-<h2 align="left">Techs</h2>
+## Habilidades Principais (Stacks)
+- **Linguagens e Frameworks**: Java 25, Spring Boot, Spring Web, Spring Data JPA, Spring Security (JWT)
+- **Persistência e Bancos**: Hibernate, PostgreSQL, Flyway, H2, Bean Validation
+- **Infraestrutura e DevOps**: Docker, Docker Compose, GitHub Actions (CI/CD), Git
+- **Outros**: APIs REST, Lombok, MapStruct
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-</div>
+## Projetos Destaque (Pinned Repos)
+- **[library-api](https://github.com/erichiroshi/library-api)**: API REST completa para gerenciamento de biblioteca. Destaques: Autenticação JWT, observabilidade full (Prometheus/Grafana), CI/CD automático. Tech: Java 25, Spring Boot, PostgreSQL, Docker Compose.
+- **[dscatalog](https://github.com/erichiroshi/dscatalog)**: Migração de monolito para microservices. Destaques: Descoberta de serviços (Eureka), roteamento (API Gateway), configuração centralizada (Config Server). Tech: Java, Spring Boot, Spring Cloud.
 
-<h2 align="left">Stats</h2>
+Outros repositórios: Upload-S3 (integração AWS), EnvioDeEmail (Spring Mail), mapstruct-com-lombok (mapeamento DTOs).
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=erichiroshi&show_icons=true&theme=dracula" height=150 alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=erichiroshi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=erichiroshi&radius=5&theme=dracula&area=true&order=5" height="229" alt="activity-graph graph"  />
-</div>
+## Sobre Mim
+- Formação: Engenharia de Software (Centro Universitário da Grande Dourados)
+- Localização: Dourados, MS, Brasil (aberto a remoto/híbrido/presencial)
+- Interesse: Evoluir em soluções financeiras, fintech e projetos escaláveis. Gosto de resolver problemas reais em persistência, segurança e infraestrutura.
 
-<h2 align="left">Socail Media</h2>
+## Contato
+- LinkedIn: [linkedin.com/in/eric-hiroshi](https://www.linkedin.com/in/eric-hiroshi)
+- Email: erichiroshi@hotmail.com
+- Telefone: (67) 99938-4499
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/eric-hiroshi/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:erichiroshi@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+Aberto a oportunidades como Backend Engineer, Java Developer ou Spring Boot Developer. Vamos conectar?
 
-###
+![Java](https://img.shields.io/badge/Java-25-blue) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3%2B-green) ![Docker](https://img.shields.io/badge/Docker-Compose-blue) ![Microservices](https://img.shields.io/badge/Microservices-Enabled-green)
