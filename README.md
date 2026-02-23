@@ -1,6 +1,6 @@
 # Eric Hiroshi - Desenvolvedor Backend Java
 
-Olá! Sou Eric Hiroshi, desenvolvedor júnior focado em backend Java e Spring Boot. Com experiência em projetos pessoais, construo soluções escaláveis e seguras, seguindo boas práticas de engenharia. Busco oportunidades para contribuir em times ágeis e evoluir em fintech ou empresas tech no Brasil.
+Olá! Sou Eric Hiroshi, desenvolvedor focado em backend Java e Spring Boot. Com experiência em projetos pessoais, construo soluções escaláveis e seguras, seguindo boas práticas de engenharia. Busco oportunidades para contribuir em times ágeis e evoluir em fintech ou empresas tech no Brasil.
 
 ## Habilidades Principais (Stacks)
 - **Linguagens e Frameworks**: Java 25, Spring Boot, Spring Web, Spring Data JPA, Spring Security (JWT)
