@@ -1,7 +1,7 @@
 <h1 align="center">Eric Hiroshi</h1>
 
 <p align="center">
-  <strong>Backend Engineer · Java & Spring Boot</strong>
+  <strong>Backend Engineer | Java & Spring Boot | APIs REST | Microsserviços | Observabilidade | Resiliência</strong>
 </p>
 
 <p align="center">
@@ -17,7 +17,7 @@
 
 ## Sobre
 
-Desenvolvedor backend com foco em **Java e Spring Boot**, construindo APIs REST prontas para produção com observabilidade, resiliência e segurança desde a concepção. Formado em **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** (Centro Universitário da Grande Dourados).
+Desenvolvedor backend com foco em **Java e Spring Boot**, construindo APIs REST com foco em qualidade de código, observabilidade e resiliência desde a concepção. Formado em **Engenharia de Software** e **Análise e Desenvolvimento de Sistemas** (Centro Universitário da Grande Dourados).
 
 Interesse em fintech e empresas com cultura de engenharia forte. Gosto de resolver problemas reais de persistência, segurança e infraestrutura — e de documentar bem o que construo.
 
@@ -27,15 +27,15 @@ Interesse em fintech e empresas com cultura de engenharia forte. Gosto de resolv
 
 **Linguagens & Frameworks**
 
-![Java](https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot_4-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java_21+-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
 
 **Persistência**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis_8-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
 ![H2](https://img.shields.io/badge/H2-1E90FF?style=flat-square)
 
@@ -90,7 +90,7 @@ API REST de speech-to-text construída em **4 fases evolutivas** com foco em qua
 
 ### 📚 [library-api](https://github.com/erichiroshi/library-api) — API de gerenciamento de biblioteca
 
-API REST completa com arquitetura de microservices:
+API REST para gerenciamento de biblioteca, evoluindo para arquitetura baseada em microsserviços com Spring Cloud:
 
 - **Autenticação** JWT stateless com Spring Security
 - **Observabilidade** full stack: Prometheus · Grafana · logs estruturados
@@ -115,6 +115,12 @@ API REST completa com arquitetura de microservices:
 
 **Engenharia de Software** — Centro Universitário da Grande Dourados  
 **Tecnologia em Análise e Desenvolvimento de Sistemas** — Centro Universitário da Grande Dourados
+
+---
+
+## O que eu busco
+
+Atuar como Backend Engineer contribuindo na construção de sistemas escaláveis, com foco em boas práticas de arquitetura, observabilidade e integração entre serviços.
 
 ---
 
